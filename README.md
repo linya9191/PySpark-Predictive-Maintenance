@@ -10,8 +10,6 @@ The input data is simulated and consists of features that are generic for most o
 
 https://pysparksampledata.blob.core.windows.net/sampledata/sampledata.csv
 
-
-
 ## Jupyter Notebooks
 
 There are  three Jupyter Notebooks on this GitHub repository. 
